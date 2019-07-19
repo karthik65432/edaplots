@@ -1,0 +1,11 @@
+Package: edaplots
+Type: Package
+Title: edaplots
+Version: 0.1.0
+Author: Ketan and Karthik
+Maintainer: Ketan Dubbewar <anurodhs123@gmail.com>
+Description: This is very useful function to create all the required plots for EDA
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+  
