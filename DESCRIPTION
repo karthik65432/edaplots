@@ -7,5 +7,5 @@ Maintainer: Ketan Dubbewar <anurodhs123@gmail.com>
 Description: This is very useful function to create all the required plots for EDA
 License: GPL-3
 Encoding: UTF-8
-LazyData: false
+LazyData: FLASE
   
